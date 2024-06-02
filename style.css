@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+
+}
+
+:root{
+    --red: red;
+    --black :black;
+    --grey :grey;
+    --blue :blue;
+    --yellow :yellow;
+    --orange :orange;
+    --green :green;
+    --white :white;
+    
+}
+
+.font-uno{
+    font-family: "LXGW WenKai TC", cursive;
+}
+
+.font-due{
+    font-family: "Montserrat", sans-serif;
+}
+
+.bg-red-custom{
+    background-color: var(--red);
+}
+
+.bg-black-custom{
+    background-color: var(--black);
+}
+
+.bg-grey-custom{
+    background-color: var(--grey);
+}
+
+.bg-blue-custom{
+    background-color: var(--blue);
+}
+
+.bg-yellow-custom{
+    background-color: var(--yellow);
+}
+
+.bg-orange-custom{
+    background-color: var(--orange);
+}
+
+.bg-green-custom{
+    background-color: var(--green);
+}
+
+.bg-white-custom{
+    background-color: var(--white);
+}
